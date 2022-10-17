@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kileighboggess
-- 👀 I’m interested in science-related topics, genetics, microbiology, healthcare, etc.
-- 🌱 I’m currently learning more about data science and machine learning.
-- 💞️ I’m looking to collaborate on any kind of projects that will advance my skills and peak my interests!
+- 👀 I’m currently pursuing my masters in Health Informatics from UTRGV and am interested in all aspects healthcare!
+- 🌱 Currently, I'm learning more about data analytics, data visualization, machine learning, etc.
+- 💞️ I’m looking to advance my skills and challenge myself!
 - 📫 How to reach me you can reach me easiest by email: kileigh.boggess@gmail.com
 
 <!---
