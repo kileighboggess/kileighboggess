@@ -1,11 +1,32 @@
-- 👋 Hi, I’m @kileighboggess
-- 👀  Passionate about data analytics and health informatics  looking to apply innovative learning methodologies and collaborate with others to generate powerful insights and identify specific trends to help streamline business for clients and organizations.
-  My goal as a data professional is to improve areas of organizations by providing and producing data visualizations and manipulate data in a way to tell stories that will help in our decision-making processes and allow busniesses to run effectively and efficiently.
-- 🌱 Currently, I am skilled in data analytics, data visualization, machine learning, etc. I have a year of experience using SQL, Python (Pandas, MATLAB, Seaborn, matplotlib, NumPy), Tableau and Power BI, Microsoft Excel, Microsoft Access, etc.
-- I’m looking to advance my skills and put my skills to use in a analytics role to help businesses succeed and reach their goals – big and small!
-- 📫 How to reach me you can reach me easiest is by email: kileigh.boggess@gmail.com
+# **👋 Hi, I’m Kileigh Boggess** #
 
-<!---
-kileighboggess/kileighboggess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## **💡 About Me** ##
+
+I’m a passionate **data analytics and health informatics professional** dedicated to turning raw data into actionable insights. I thrive on using data to solve complex problems, streamline business operations, and empower decision-making processes through storytelling and visualizations. With a strong foundation in analytics, I strive to improve organizational efficiency and help businesses reach their goals—big or small.
+
+## **🔍 What I Bring to the Table** ##
+
+**Data Analytics Expertise:** Skilled in analyzing and manipulating data to uncover trends, generate insights, and provide evidence-based recommendations.
+**Health Informatics Focus:** Specialize in leveraging data to drive innovations in the healthcare sector, improving patient outcomes and organizational efficiency.
+**Data Visualization:** Craft compelling visualizations that communicate insights effectively to both technical and non-technical audiences.
+**Problem Solving:** A critical thinker with a strong desire to collaborate and apply innovative methodologies to improve business outcomes.
+
+## **🛠 Technical Skills** ##
+
+**Programming Languages:** SQL, Python (Pandas, NumPy, Seaborn, Matplotlib)
+**Data Visualization Tools:** Tableau, Power BI, Plotly Dash
+**Software & Applications:** Microsoft Excel, Microsoft Access
+**Machine Learning:** Experience with applying models to uncover trends and predict outcomes
+**Analytics Frameworks:** Exploratory data analysis (EDA), feature engineering, and reporting
+
+## **🚀 What I’m Working Toward** ##
+
+I’m continuously advancing my skills in data analytics and visualization to drive real-world impact. My goal is to secure an analytics role where I can:
+
+Empower businesses to make data-driven decisions.
+Improve operational efficiency through strategic insights.
+Create intuitive dashboards and visualizations that make data accessible to everyone.
+## **📫 Let’s Connect!** ##
+
+If you’re interested in collaborating, learning more about my work, or discussing how I can add value to your organization, feel free to reach out:
+**📧 Email:** kileigh.boggess@gmail.com
